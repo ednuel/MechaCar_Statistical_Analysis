@@ -11,10 +11,20 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ## Results
 ## Linear Regression to Predict MPG
 ### 
-
+![](R/linear.png)
+###
+![](R/S linear.png)
 ## Summary Statistics on Suspension Coils
 ### 
+![](R/Total.png)
+###
+![](R/Lot.png)
 
 ## T-Tests on Suspension Coils
-
+###
+![](R/test1.png)
+###
+![](R/test2.png)
+###
+![](R/test3.png)
 ## Summary
