@@ -13,7 +13,7 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ### Using lm(mpg ~ vehicle_length+vehicle_weight+spoiler_angle+ground_clearance+AWD,MechaCar) to get the coefficient 
 ![](R/linear.png)
 ###
-![](R/S linear.png)
+![](R/Slinear.png)
 ## Summary Statistics on Suspension Coils
 ### To find P-value along with r-squared value use summary(lm(mpg ~ vehicle_length+vehicle_weight+spoiler_angle+ground_clearance+AWD,MechaCar) )
 ## Prediction 
@@ -21,12 +21,11 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ![](R/Total.png)
 ###
 ![](R/Lot.png)
-
 ## T-Tests on Suspension Coils
-### The p value is 1.568e-11 which is greater than 0.05 and is therfore not significant and the null hypothesis can be accepted.
+### For T_test1, the p value is 1.568e-11 which is greater than 0.05 and is therfore not significant and the null hypothesis can be accepted.
 ![](R/test1.png)
-### The p value is 0.0005911 which is less than 0.05 and is therfore significant so the null hypothesis can be rejected.
+### For T_test2 , the p value is 0.0005911 which is less than 0.05 and is therfore significant so the null hypothesis can be rejected.
 ![](R/test2.png)
-### The p value is 0.1589 which is greater than 0.05 and is therfore not significant so the null hypothesis can be accepted
+### For T_test3, the p value is 0.1589 which is greater than 0.05 and is therfore not significant so the null hypothesis can be accepted
 ![](R/test3.png)
 ## Study Design: MechaCar vs Competition
