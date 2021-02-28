@@ -27,4 +27,4 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ![](R/test2.png)
 ###
 ![](R/test3.png)
-## Summary
+## Study Design: MechaCar vs Competition
