@@ -29,3 +29,11 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ### For T_test3, the p value is 0.1589 which is greater than 0.05 and is therfore not significant so the null hypothesis can be accepted
 ![](R/test3.png)
 ## Study Design: MechaCar vs Competition
+### What Metric are we going to test?
+We can test the highway fuel efficiency,horse power and cost because those metrics are directly proportional we can justify the cost of vehicle comparing to the competition.
+### What is the null hypothesis or alternative hypothesis?
+The null hypothesis means there are no difference between a sample mean or proportion and a population mean or proportion. The alternative hypothesis is a opposite to the null hypothesis. Using the t test we can calculate the p value and depending on this p value we can reject our null hypothesis if p value is smaller than 0.05 and support the alternative hypothesis or accept the null hypothesis and reject the alternative hypothesis.
+### What statistical test would you use to test the hypothesis? And why?
+I would use the two sample t test because we are comparing two populations instead of using the one sample t test, which only covers one population.
+### What data is needed to run the statistical test?
+Means of both sample, the standard deviation of both samples, along with the number of observations are the data we need to run a statistical test.
